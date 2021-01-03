@@ -1,0 +1,4 @@
+#Sun Jan 03 23:14:30 JST 2021
+base.0=D\:\\project\\VR Try\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

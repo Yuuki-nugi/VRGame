@@ -63,6 +63,7 @@
     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\ButtonDownListener.cs" />
     <Compile Include="Assets\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\InteractableToolView.cs" />
+    <Compile Include="Assets\AtackBall.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandler.cs" />
     <Compile Include="Assets\Oculus\LipSync\Scenes\Scripts\LipSyncDemo_Control.cs" />
     <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\PlayerController.cs" />
@@ -165,6 +166,7 @@
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonTriggerZone.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatar.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarRemoteDriver.cs" />
+    <Compile Include="Assets\MagicHandR.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSettingsEditor.cs" />
     <Compile Include="Assets\Oculus\Avatar\Samples\GripPoses\Scripts\PoseEditHelper.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\SoundFXRef.cs" />
@@ -208,7 +210,7 @@
     <Compile Include="Assets\Oculus\LipSync\Scripts\OVRLipSyncContextTextureFlip.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\DebugUI\DebugUISample.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonController.cs" />
-    <Compile Include="Assets\MagicHand.cs" />
+    <Compile Include="Assets\MagicHandL.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />

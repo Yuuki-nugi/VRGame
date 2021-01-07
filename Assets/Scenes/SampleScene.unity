@@ -384,6 +384,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba1fa4a8c66106b4988c88fe4b8e8502, type: 3}
+--- !u!1 &230960266 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 143668, guid: e6ba3498ffa1e534b91a07264266e6b8, type: 3}
+  m_PrefabInstance: {fileID: 911656841}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &230960271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 230960266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e008989b6e26e84448346281789e06c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Hand: {fileID: 1875765875}
+  YellowEne: {fileID: 7039071387410091478, guid: 095319ff188fb1a4f9973f35c8fe9b6f, type: 3}
+  OrangeEne: {fileID: 5611405129468207387, guid: 6731d3967ee7855469c05e7f7b5a5c32, type: 3}
+  AtackEne: {fileID: 8477329196737568610, guid: f722104d07e0ace4d8525034a9bf36ef, type: 3}
+  Blade: {fileID: 7868636429983317981, guid: 1dd7b2e8f66a87e44a39d554ff32840a, type: 3}
 --- !u!1 &233131802
 GameObject:
   m_ObjectHideFlags: 0
@@ -5691,6 +5713,8 @@ MonoBehaviour:
   Hand: {fileID: 40919614}
   YellowEne: {fileID: 7039071387410091478, guid: 095319ff188fb1a4f9973f35c8fe9b6f, type: 3}
   OrangeEne: {fileID: 5611405129468207387, guid: 6731d3967ee7855469c05e7f7b5a5c32, type: 3}
+  AtackEne: {fileID: 8477329196737568610, guid: f722104d07e0ace4d8525034a9bf36ef, type: 3}
+  Blade: {fileID: 7868636429983317981, guid: 1dd7b2e8f66a87e44a39d554ff32840a, type: 3}
 --- !u!1 &1289934412
 GameObject:
   m_ObjectHideFlags: 0
@@ -5723,6 +5747,8 @@ MonoBehaviour:
   Hand: {fileID: 40919614}
   YellowEne: {fileID: 7039071387410091478, guid: 095319ff188fb1a4f9973f35c8fe9b6f, type: 3}
   OrangeEne: {fileID: 5611405129468207387, guid: 6731d3967ee7855469c05e7f7b5a5c32, type: 3}
+  AtackEne: {fileID: 0}
+  Blade: {fileID: 0}
 --- !u!4 &1289934414
 Transform:
   m_ObjectHideFlags: 0
@@ -5962,6 +5988,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!1 &1875765875 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 109308, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
+  m_PrefabInstance: {fileID: 1114040580}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2011474445
 GameObject:
   m_ObjectHideFlags: 0

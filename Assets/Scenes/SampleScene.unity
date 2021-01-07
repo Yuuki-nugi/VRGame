@@ -405,7 +405,7 @@ MonoBehaviour:
   YellowEne: {fileID: 7039071387410091478, guid: 095319ff188fb1a4f9973f35c8fe9b6f, type: 3}
   OrangeEne: {fileID: 5611405129468207387, guid: 6731d3967ee7855469c05e7f7b5a5c32, type: 3}
   AtackEne: {fileID: 8477329196737568610, guid: f722104d07e0ace4d8525034a9bf36ef, type: 3}
-  Blade: {fileID: 7868636429983317981, guid: 1dd7b2e8f66a87e44a39d554ff32840a, type: 3}
+  Blade: {fileID: 7903545594591376622, guid: a73562cc9a0c1904d862a1c8d41d73a7, type: 3}
 --- !u!1 &233131802
 GameObject:
   m_ObjectHideFlags: 0
@@ -5714,7 +5714,7 @@ MonoBehaviour:
   YellowEne: {fileID: 7039071387410091478, guid: 095319ff188fb1a4f9973f35c8fe9b6f, type: 3}
   OrangeEne: {fileID: 5611405129468207387, guid: 6731d3967ee7855469c05e7f7b5a5c32, type: 3}
   AtackEne: {fileID: 8477329196737568610, guid: f722104d07e0ace4d8525034a9bf36ef, type: 3}
-  Blade: {fileID: 7868636429983317981, guid: 1dd7b2e8f66a87e44a39d554ff32840a, type: 3}
+  Blade: {fileID: 7903545594591376622, guid: a73562cc9a0c1904d862a1c8d41d73a7, type: 3}
 --- !u!1 &1289934412
 GameObject:
   m_ObjectHideFlags: 0

@@ -157,7 +157,7 @@
 84-->[:unityLibrary] D:\project\VR Try\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:9-79:68
 85            android:name="unity.build-id"
 85-->[:unityLibrary] D:\project\VR Try\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:78:13-42
-86            android:value="72495105-f34e-4942-9cdd-a75c6431a85c" />
+86            android:value="7447b6da-babc-4c30-9fab-c73e1e94d493" />
 86-->[:unityLibrary] D:\project\VR Try\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-65
 87        <meta-data
 87-->[:unityLibrary] D:\project\VR Try\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:9-82:39
